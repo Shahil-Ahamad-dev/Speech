@@ -78,7 +78,3 @@ Whether you’re working on a small project or a large enterprise application, N
 
 ### **Closing:**  
 Thank you so much for your time and attention! I hope this talk has given you a clear idea of what Nx Workspace is and how it can help you. If you have any questions, I’d be more than happy to answer them. Let’s work smarter, not harder!  
-
----  
-
-This version is detailed but written in simple English for better understanding. Feel free to let me know if you'd like further changes!
