@@ -1,5 +1,8 @@
 # speech:  
 
+![Screenshot From 2024-12-03 18-31-36](https://github.com/user-attachments/assets/ad01cfd4-12a1-436f-8982-331a5a842ce5)
+
+
 ---
 
 ### **Opening:**
