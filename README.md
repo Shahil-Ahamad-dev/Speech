@@ -29,7 +29,6 @@ So, why should we care about Nx Workspace? What makes it stand out? Here are som
 4. **Customizable with Plugins**: You can add extra features to Nx to fit your specific needs. It’s like customizing your car with features that suit your driving style. 
 
 
-Customizable with Plugins: You can add extra features to Nx to fit your specific needs. It’s like customizing your car with features that suit your driving style.
 ---
 
 ### **Key Features of Nx Workspace:**  
