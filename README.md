@@ -3,7 +3,7 @@
 ---
 
 ### **Opening:**
-Good [morning/afternoon/evening], everyone,  
+Good afternoon, everyone,  
 Thank you all for being here today. My name is Shahil Ahamad, and I’m thrilled to have the opportunity to talk about something that can truly change the way we work on software development projects: **Nx Workspace**.  
 
 Whether you are a developer managing multiple applications, a team leader handling shared codebases, or part of an organization working on complex projects, Nx Workspace can help you make things more organized, faster, and easier.  
